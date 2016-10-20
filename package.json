@@ -1,7 +1,7 @@
 {
   "name": "literal-toast",
   "version": "1.0.0",
-  "description": "Helper for making template literal tags; combines template literal values so you don't have to",
+  "description": "🍞 Helper for making template literal tags; combines template literal values so you don't have to",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "babel src --out-dir lib --source-maps inline --ignore \"**/*.spec.js\"",
@@ -9,6 +9,17 @@
     "lint": "eslint src",
     "lint-and-fixup": "eslint --fix src"
   },
+  "keywords": [
+    "es2015",
+    "es6",
+    "helper",
+    "literal-tags",
+    "literals",
+    "puns",
+    "tag",
+    "toast",
+    "🍞"
+  ],
   "homepage": "https://github.com/ticky/literal-toast",
   "bugs": {
     "url": "https://github.com/ticky/literal-toast/issues"
