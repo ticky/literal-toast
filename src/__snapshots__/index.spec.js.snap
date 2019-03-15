@@ -1,5 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
 exports[`🍞 Literal Toast bakes a string literal correctly 1`] = `
 "This string literal contains some weird substitutions,
-        like Infinity?! and NaN. It\'s also got some newlines,
+        like Infinity?! and NaN. It's also got some newlines,
         numbers (like 9) and is generally kind of unweildy!"
 `;
