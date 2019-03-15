@@ -1,5 +1,5 @@
 # 🍞 Literal Toast
-[![npm](https://img.shields.io/npm/v/literal-toast.svg?maxAge=2592000)](https://www.npmjs.com/package/literal-toast) ![literal-toast](https://img.shields.io/npm/l/literal-toast.svg?maxAge=2592000)  [![Build Status](https://travis-ci.org/ticky/literal-toast.svg?branch=master)](https://travis-ci.org/ticky/literal-toast) [![codecov](https://codecov.io/gh/ticky/literal-toast/branch/master/graph/badge.svg)](https://codecov.io/gh/ticky/literal-toast)
+[![npm](https://img.shields.io/npm/v/literal-toast.svg?maxAge=2592000)](https://www.npmjs.com/package/literal-toast) ![literal-toast](https://img.shields.io/npm/l/literal-toast.svg?maxAge=2592000)  [![Build Status](https://travis-ci.org/ticky/literal-toast.svg?branch=develop)](https://travis-ci.org/ticky/literal-toast) [![codecov](https://codecov.io/gh/ticky/literal-toast/branch/develop/graph/badge.svg)](https://codecov.io/gh/ticky/literal-toast)
 
 Helper for making template literal tags; combines template literal values so you don't have to
 
